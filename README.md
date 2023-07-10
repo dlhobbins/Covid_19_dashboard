@@ -118,6 +118,9 @@ ORDER BY
 - Highest Infection Rate by Country  
 - Percent of Population Infected by Date
 
+![Covid dashboard](visualisations/covid_dashboard.png)
+
+
   
 
 
