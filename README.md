@@ -1,7 +1,7 @@
 # Covid_19_dashboard
 - This was a follow along project that I completed in order to further develop my skills with Big Query and Tableau in addition to beginning to build a portfolio.  
 - Downloaded the dataset from from: https://ourworldindata.org/covid-deaths  Accessed on 05/06/2023 (DD,MM,YYYY)
-- Opened data set in excel and removed a selection of columns until I had 2 data sets. 1 named CovidDeaths and 1 named CovidVaccines
+- Opened data set in excel and removed a selection of columns until I had 2 data sets. covid_deaths and covid_vaccinations
 - Loaded csv files into Big Query for exploration of the data
 
 ## Big Query
